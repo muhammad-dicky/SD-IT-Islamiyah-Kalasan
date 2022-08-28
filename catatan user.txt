@@ -1,0 +1,7 @@
+admin = admin admin123
+wali kelas = sri@gmail.com 061979
+guru = rumiyati@gmail.com 071972
+ damar@gmail.com 121993
+siswa = 1896  052013
+
+https://www.md5online.org/md5-decrypt.html
