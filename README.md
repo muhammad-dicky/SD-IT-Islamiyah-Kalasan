@@ -1,5 +1,5 @@
-# Data Nilai Mahasiswa
+#Login Page
+![image](https://user-images.githubusercontent.com/58357765/190212134-3f872f26-5f12-4c60-aad4-8ce03b52f8dd.png)
 
-![image](https://user-images.githubusercontent.com/58357765/187082690-76a1404e-8234-4cd9-aaf5-29f153de0ae7.png)
----------------------------------------------------
-![image](https://user-images.githubusercontent.com/58357765/187082719-f8579d95-89f3-4345-a649-9c19edf8a945.png)
+#Main Page Admin
+![image](https://user-images.githubusercontent.com/58357765/190212242-ce1c0351-3566-4401-b04f-54d1db8c9a31.png)
